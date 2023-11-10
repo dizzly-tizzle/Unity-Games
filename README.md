@@ -1,5 +1,4 @@
-<h1 align="left">Hi there <a href="" target="_blank"></a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+### Hi there 
 
 In this repository I saved several games that I made while was learning Unity. 
 I'm currently learning Unreal Engine and don't feel like going back to Unity.
