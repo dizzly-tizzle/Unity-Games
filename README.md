@@ -17,4 +17,4 @@ Enjoy <3
 ### Seeds & Flames
 
 
-### PinBall
+### Pinball
